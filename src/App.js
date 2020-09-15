@@ -4,11 +4,13 @@ import "./App.css";
 import Karim from "./Karim";
 import Mohamed from "./Mohamed";
 
+
 function App() {
   return (
     <div className="App">
       <Karim />
       <Mohamed />
+
     </div>
   );
 }
